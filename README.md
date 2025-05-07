@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# NextPlayGround
 
-## Getting Started
+NextPlayGround is a personal learning project built with Next.js. It serves as an interactive playground where I built small frontend apps like a live HTML editor, a Markdown editor, and a todos app. The project helped me practice and apply key frontend concepts in a real-world setup.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 What I Built
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- ✏️ A live HTML editor with real-time preview
+- 📝 A Markdown editor with GitHub-style preview
+- ✅ A simple todos app with state management and UI feedback
+- 🎨 Theme switching with light and dark modes
+- 🧱 Reusable components built using Tailwind CSS and ShadCN UI
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Technologies Used
 
-## Learn More
+- Next.js
+- React
+- Tailwind CSS
+- ShadCN UI
+- Redux Toolkit
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📚 Key Learnings
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 🔄 State Management using Redux Toolkit
+- 🔌 Integration of utility libraries with React components
+- 🧩 Modular and reusable component design
+- 🌐 Routing with the Next.js App Router
+- 🎨 Building clean, accessible, and responsive UIs
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🌱 What's Coming Next
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 🔐 User authentication using NextAuth (Auth.js)
+- 🗄️ Database integration (e.g., PostgreSQL or MongoDB) for storing user data and todos
+- 🤖 AI integrations for enhancing the HTML/Markdown editor experience
+- 🛠️ More mini-projects
